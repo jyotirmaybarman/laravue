@@ -11,7 +11,11 @@
 ## Install
 
 ```sh
-git clone https://github.com/JyotirmayBarman/laravue.git    cd laravue    npm install && composer install
+git clone https://github.com/JyotirmayBarman/laravue.git
+
+cd laravue
+
+npm install && composer install
 ```
 
 ## Author
